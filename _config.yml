@@ -1,7 +1,7 @@
 # site settings
 
 title:          Geek Fr
-tagline:        La liberté est intimement liée à la connaissance. En France, elle est accessible au plus grand nombre car majoritairement gratuite. Profitez-en carvous ne pouvez compter qur sur vous-même pour changer votre vie. Personne d'autre ne le fera pour vous !
+tagline:        La liberté est intimement liée à la connaissance. En France, elle est accessible au plus grand nombre car majoritairement gratuite. Profitez-en car vous ne pouvez compter que sur vous-même pour changer votre vie. Personne d'autre ne le fera pour vous !
 url:            https:/geekfr.github.io
 baseurl:        ""
 permalink:      pretty
