@@ -1,16 +1,16 @@
 # site settings
 
-title:          Streketo
-tagline:        Trait d'union entre deux noms et tout le reste...
-url:            https:/streketo.github.io
+title:          Geek Fr
+tagline:        La connaissance et la liberté sont ouvertes à toutes et à tous !
+url:            https:/geekfr.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/streketo/streketo.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/geekfr/geekfr.github.io # https://github.com/username/username.github.io
 
 # author settings
 
 author:
-  name:         Joachim
+  name:         Jo
   email:        jomd@duck.com
 photo:          # /assets/photo.jpg
 
