@@ -1,11 +1,11 @@
 # site settings
 
-title:          Geek Fr
+title:          dotLib
 tagline:        La liberté est intimement liée à la connaissance. En France, elle est accessible au plus grand nombre car majoritairement gratuite. Profitez-en car vous ne pouvez compter que sur vous-même pour changer votre vie. Personne d'autre ne le fera pour vous !
-url:            https:/geekfr.github.io
+url:            https://dotlib.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/geekfr/geekfr.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/dotlib/dotlib.github.io # https://github.com/username/username.github.io
 
 # author settings
 
