@@ -1,6 +1,6 @@
 # site settings
 
-title:          dotLib
+title:          dot.Lib
 tagline:        La liberté est intimement liée à la connaissance. En France, elle est accessible au plus grand nombre car majoritairement gratuite. Profitez-en car vous ne pouvez compter que sur vous-même pour changer votre vie. Personne d'autre ne le fera pour vous !
 url:            https://dotlib.github.io
 baseurl:        ""
