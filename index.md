@@ -5,13 +5,13 @@ title: Home
 
 # Bonjour !
 
-Je m'appelle Joachim Murat-Delfau.
+Je m'appelle Jo, alias dotLibre.
 Rien de plus pour l'instant. Si vous souhaitez entrer en contact avec moi, utilisez le formulaire ci-dessous.  
 À bientôt peut-être !  
 
 ## Hello !  
 
-My name is Joachim Murat-Delfau.  
+My name is Jo, alias dotLibre.  
 Nothing more for now. If you want to get in touch with me, use the form below.  
 Maybe see you soon !  
 
