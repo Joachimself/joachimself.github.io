@@ -1,7 +1,7 @@
 # site settings
 
-title:          dotLibre
-tagline:        La liberté est intimement liée à la connaissance. En France, elle est accessible au plus grand nombre car majoritairement gratuite. Profitez-en car vous ne pouvez compter que sur vous-même pour changer votre vie. Personne d'autre ne le fera pour vous !
+title:          .Libre
+tagline:        dotLibre, la liberté pour épilogue
 url:            https://dotlib.github.io
 baseurl:        ""
 permalink:      pretty
@@ -11,7 +11,7 @@ repo:           https://github.com/dotlib/dotlib.github.io # https://github.com/
 
 author:
   name:         Jo
-  email:        jomd@duck.com
+  email:        dotlibre@vivaldi.net
 photo:          # /assets/photo.jpg
 
 # build settings
