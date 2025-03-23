@@ -5,18 +5,18 @@ title: Home
 
 # Bonjour !
 
-Je m'appelle Jo, alias dotLibre.
+Je m'appelle Joachim, alias Joachimself.
 Rien de plus pour l'instant. Si vous souhaitez entrer en contact avec moi, utilisez le formulaire ci-dessous.  
 À bientôt peut-être !  
 
 ## Hello !  
 
-My name is Jo, alias dotLibre.  
+I am Joachim, alias Joachimself.  
 Nothing more for now. If you want to get in touch with me, use the form below.  
 Maybe see you soon !  
 
 ## Bonan matenon!
-Mia nomo estas Jo, alinome dotLibre.  
+Mi estas Jo, alinome Joachimself.  
 Nenio pli por nun. Se vi ŝatus kontakti min, uzu la suban formularon.  
 Ĝis baldaŭ eble!
 
