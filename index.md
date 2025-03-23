@@ -3,22 +3,11 @@ layout: home
 title: Home
 ---
 
-# Bonjour !
+# Salut
 
-Je suis Joachim, alias Joachimself.
-Rien de plus pour l'instant. Si vous souhaitez entrer en contact avec moi, utilisez le formulaire ci-dessous.  
-À bientôt peut-être !  
-
-## Hello !  
-
-I am Joachim, alias Joachimself.  
-Nothing more for now. If you want to get in touch with me, use the form below.  
-Maybe see you soon !  
-
-## Bonan matenon!
-Mi estas Joachim, alinome Joachimself.  
-Nenio pli por nun. Se vi ŝatus kontakti min, uzu la suban formularon.  
-Ĝis baldaŭ eble!
+C'est bien moi Jo, Joachim ou Joachimself, selon les circonstances mais toujours le même !
+Si tu penses qu'on a pu se croiser dans un passé plus ou moins lointain, n'hésite pas à laisser un message.
+À bientôt peut-être ! 
 
 {% include form.html %}
   
