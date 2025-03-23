@@ -1,17 +1,17 @@
 # site settings
 
-title:          .Libre
-tagline:        dotLibre, la liberté pour épilogue
-url:            https://dotlib.github.io
+title:          Joachimself
+tagline:        Joachim, lui-même !
+url:            https://joachimself.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/dotlib/dotlib.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/joachimself/joachimself.github.io # https://github.com/username/username.github.io
 
 # author settings
 
 author:
   name:         Jo
-  email:        dotlibre@vivaldi.net
+  email:        jomd@duck.com
 photo:          # /assets/photo.jpg
 
 # build settings
